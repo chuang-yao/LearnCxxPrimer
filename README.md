@@ -4,7 +4,7 @@ This project contains examples/quizes in C++ Primer (5th Edition).
 
 My learning experience with this Book boils down to:
 
-Chapter 01 - Getting Started
+Chapter 01 - Getting Started  
 Chapter 02 - A  
 Chapter 03 - B, and how B works with A  
 Chapter 04 - C, and how C works with A and B  
